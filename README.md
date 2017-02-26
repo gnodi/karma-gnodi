@@ -1,5 +1,7 @@
 # @gnodi/karma-gnodi
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gnodi/karma-gnodi.svg)](https://greenkeeper.io/)
+
 [Node.js] Test your gnodi libs with karma!
 
 [![Build][build-image]][build-url]
